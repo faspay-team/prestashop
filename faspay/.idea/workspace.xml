@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="afb5db2b-6b6b-43ba-808b-6a780c53ca35" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file leaf-file-name="faspay.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/faspay.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1257">
+              <caret line="1175" column="23" lean-forward="false" selection-start-line="1175" selection-start-column="23" selection-end-line="1175" selection-end-column="23" />
+              <folding>
+                <marker date="1531426834000" expanded="true" signature="41862:42204" ph="CREATE TABLE... ${_DB_PREFIX_}banklist" />
+                <marker date="1531426834000" expanded="true" signature="42380:42794" ph="CREATE TABLE... ${_DB_PREFIX_}order_payment_faspay" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="notification.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/controllers/front/notification.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2050">
+              <caret line="82" column="0" lean-forward="false" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+              <folding>
+                <marker date="1531426834000" expanded="true" signature="601:697" ph="SELECT * FRO... ${_DB_PREFIX_}order_payment_faspay" />
+                <marker date="1531426834000" expanded="true" signature="2011:2099" ph="SELECT refer... ${_DB_PREFIX_}orders" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="thankyou.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/controllers/front/thankyou.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1800">
+              <caret line="113" column="41" lean-forward="false" selection-start-line="113" selection-start-column="41" selection-end-line="113" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>xltunai</find>
+      <find>additional</find>
+      <find>hookdis</find>
+      <find>cartproducts</find>
+      <find>foreach</find>
+      <find>total</find>
+      <find>fees</find>
+      <find>hook</find>
+      <find>payment_return</find>
+      <find>payment_return_klikpa</find>
+      <find>bca_klikpay</find>
+      <find>hookpayment</find>
+      <find>getexter</find>
+      <find>hookpaymentoptions</find>
+      <find>hookpay</find>
+      <find>paymentoption</find>
+      <find>tools::getValue</find>
+      <find>prod</find>
+      <find>klikpay</find>
+      <find>payment?</find>
+      <find>validateorder</find>
+      <find>argapay</find>
+      <find>img</find>
+      <find>exp</find>
+      <find>newpresta</find>
+      <find>signature</find>
+      <find>guide</find>
+      <find>cart</find>
+      <find>uninstall</find>
+      <find>$this-&gt;uninsta</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Fixed Price(Rupiah)</replace>
+      <replace>Percentage (%)</replace>
+      <replace>{$tpl_dir}</replace>
+      <replace>faspay</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/views/templates/front/payment_infos.tpl" />
+        <option value="$PROJECT_DIR$/controllers/front/payment_details.php" />
+        <option value="$PROJECT_DIR$/../../mails/en/faspay.txt" />
+        <option value="$USER_HOME$/Downloads/Cerberus-master/Cerberus-master/cerberus-fluid.html" />
+        <option value="$PROJECT_DIR$/../../mails/en/faspay.html" />
+        <option value="$PROJECT_DIR$/../../mails/id/faspay.html" />
+        <option value="$PROJECT_DIR$/../../mails/id/faspay.txt" />
+        <option value="$PROJECT_DIR$/../../mails/en/faspaymail.html" />
+        <option value="$PROJECT_DIR$/../../mails/en/faspaymail.txt" />
+        <option value="$PROJECT_DIR$/../../mails/id/faspaymail.html" />
+        <option value="$PROJECT_DIR$/../../mails/id/faspaymail.txt" />
+        <option value="$PROJECT_DIR$/../../mails/en/bismillah.html" />
+        <option value="$PROJECT_DIR$/../../mails/id/bismillah.html" />
+        <option value="$PROJECT_DIR$/../../mails/id/bismillah.txt" />
+        <option value="$PROJECT_DIR$/../../mails/en/bismillah.txt" />
+        <option value="$PROJECT_DIR$/views/templates/front/payment_guide_alfa_group.tpl" />
+        <option value="$PROJECT_DIR$/views/templates/front/payment_guide_bca_va.tpl" />
+        <option value="$PROJECT_DIR$/views/templates/front/payment_guide_mandiri_billpayment.tpl" />
+        <option value="$PROJECT_DIR$/views/templates/front/payment_guide_indomaret_paymentpoint.tpl" />
+        <option value="$PROJECT_DIR$/views/templates/front/payment_guide_danamon_va.tpl" />
+        <option value="$PROJECT_DIR$/views/templates/front/payment_guide_bri_va.tpl" />
+        <option value="$PROJECT_DIR$/views/templates/front/payment_guide_bri_mocash.tpl" />
+        <option value="$PROJECT_DIR$/../../mails/en/tests.html" />
+        <option value="$PROJECT_DIR$/../../mails/en/fasmail.html" />
+        <option value="$PROJECT_DIR$/../../mails/id/fasmail.html" />
+        <option value="$PROJECT_DIR$/../../mails/en/fasmail.txt" />
+        <option value="$PROJECT_DIR$/../../mails/id/fasmail.txt" />
+        <option value="$PROJECT_DIR$/views/templates/front/payment_guide_bni_va.tpl" />
+        <option value="$PROJECT_DIR$/views/templates/front/payment_return_test.tpl" />
+        <option value="$PROJECT_DIR$/../../mails/en/guidemail.html" />
+        <option value="$PROJECT_DIR$/../../mails/en/guide.html" />
+        <option value="$PROJECT_DIR$/controllers/front/paymentdetails.php" />
+        <option value="$PROJECT_DIR$/views/templates/front/payment_details.tpl" />
+        <option value="$PROJECT_DIR$/views/templates/front/test.tpl" />
+        <option value="$PROJECT_DIR$/controllers/front/eek.php" />
+        <option value="$PROJECT_DIR$/views/templates/front/payment_return.tpl" />
+        <option value="$PROJECT_DIR$/views/templates/front/payment_return_klikpay.tpl" />
+        <option value="$PROJECT_DIR$/views/templates/front/payment_return_2.tpl" />
+        <option value="$PROJECT_DIR$/views/templates/front/thankyou.tpl" />
+        <option value="$PROJECT_DIR$/views/templates/front/payment_guide_permata_va.tpl" />
+        <option value="$PROJECT_DIR$/views/templates/front/payment_guide_mandiri_va.tpl" />
+        <option value="$PROJECT_DIR$/views/templates/front/payment_guide_bii_va.tpl" />
+        <option value="$PROJECT_DIR$/views/templates/front/payment_exp.tpl" />
+        <option value="$PROJECT_DIR$/controllers/front/testing.php" />
+        <option value="$PROJECT_DIR$/controllers/front/thankyou.php" />
+        <option value="$PROJECT_DIR$/views/templates/front/notification.tpl" />
+        <option value="$USER_HOME$/AppData/Local/packages/Microsoft.SkypeApp_kzf8qxf38zg5c/LocalState/Downloads/terima_notif.php" />
+        <option value="$PROJECT_DIR$/controllers/front/payment.php" />
+        <option value="$PROJECT_DIR$/controllers/front/notification.php" />
+        <option value="$PROJECT_DIR$/views/templates/front/payment_return_klikpay2.tpl" />
+        <option value="$PROJECT_DIR$/faspay.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-10" />
+    <option name="width" value="980" />
+    <option name="height" value="1044" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="faspay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="faspay" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="faspay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="faspay" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="controllers" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="faspay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="faspay" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="controllers" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="front" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="faspay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="faspay" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="faspay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="faspay" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="templates" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="faspay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="faspay" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="templates" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="front" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SearchEverywhereHistoryKey" value="notifi&#9;FILE&#9;file://C:/xampp/htdocs/prestashop_testing17/modules/faspay/controllers/front/notification.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\newpresta\modules\faspay\views\templates\front" />
+      <recent name="C:\xampp\htdocs\newpresta\modules\faspay\controllers\front" />
+      <recent name="C:\xampp\htdocs\newpresta\modules\faspay" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="afb5db2b-6b6b-43ba-808b-6a780c53ca35" name="Default" comment="" />
+      <created>1523508843034</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1523508843034</updated>
+      <workItem from="1523508844255" duration="20569000" />
+      <workItem from="1523584442757" duration="12810000" />
+      <workItem from="1523605284901" duration="12539000" />
+      <workItem from="1523620950350" duration="38000" />
+      <workItem from="1523621106643" duration="21000" />
+      <workItem from="1523842439254" duration="22172000" />
+      <workItem from="1523933935955" duration="4216000" />
+      <workItem from="1523949325558" duration="4253000" />
+      <workItem from="1523958021031" duration="3260000" />
+      <workItem from="1523963514587" duration="1021000" />
+      <workItem from="1524016701264" duration="602000" />
+      <workItem from="1524017614517" duration="10000" />
+      <workItem from="1524018538709" duration="5308000" />
+      <workItem from="1524025513237" duration="9255000" />
+      <workItem from="1524040483935" duration="728000" />
+      <workItem from="1524044956278" duration="3835000" />
+      <workItem from="1524103020473" duration="1489000" />
+      <workItem from="1524113864653" duration="847000" />
+      <workItem from="1524196800471" duration="3044000" />
+      <workItem from="1524466474531" duration="5139000" />
+      <workItem from="1524534620858" duration="6419000" />
+      <workItem from="1524623362201" duration="12050000" />
+      <workItem from="1524712924001" duration="2903000" />
+      <workItem from="1524796669840" duration="87000" />
+      <workItem from="1525227238968" duration="709000" />
+      <workItem from="1525312641146" duration="6185000" />
+      <workItem from="1525399351410" duration="3218000" />
+      <workItem from="1525422224138" duration="7011000" />
+      <workItem from="1525433529391" duration="2459000" />
+      <workItem from="1525436833265" duration="87000" />
+      <workItem from="1525658653297" duration="18926000" />
+      <workItem from="1525690133887" duration="144000" />
+      <workItem from="1525744337614" duration="3414000" />
+      <workItem from="1525761066702" duration="13170000" />
+      <workItem from="1525778709798" duration="736000" />
+      <workItem from="1525780525479" duration="958000" />
+      <workItem from="1525832132066" duration="9064000" />
+      <workItem from="1531282792657" duration="277000" />
+      <workItem from="1531283393451" duration="374000" />
+      <workItem from="1531797866442" duration="2355000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="201702000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-11" y="-11" width="1942" height="1056" extended-state="7" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2837838" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969698" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969698" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969698" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24216217" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969698" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="19" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../../mails/en/guidemail.txt" />
+    <entry file="file://$PROJECT_DIR$/../../mails/en/guidemail.html" />
+    <entry file="file://$PROJECT_DIR$/../../mails/en/guide.txt" />
+    <entry file="file://$PROJECT_DIR$/../../mails/en/guide.html" />
+    <entry file="file://$PROJECT_DIR$/controllers/front/eek.php" />
+    <entry file="file://$PROJECT_DIR$/views/templates/hook/mymodule.tpl" />
+    <entry file="file://$PROJECT_DIR$/views/templates/hook/test.tpl" />
+    <entry file="file://$PROJECT_DIR$/utils.php" />
+    <entry file="file://$PROJECT_DIR$/views/templates/front/payment_return.tpl" />
+    <entry file="file://$USER_HOME$/Pictures/argapay/argapay.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-693">
+          <caret line="787" column="27" lean-forward="false" selection-start-line="787" selection-start-column="20" selection-end-line="787" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/argapay/argapay.php" />
+    <entry file="file://E:/LATEST MODULE/argapay/argapay.php" />
+    <entry file="file://E:/MODULE/argapay/argapay.php" />
+    <entry file="file://D:/faspay_update_1/faspay.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1518">
+          <caret line="1667" column="38" lean-forward="false" selection-start-line="1667" selection-start-column="20" selection-end-line="1667" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/faspay/faspay.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-243">
+          <caret line="1666" column="27" lean-forward="false" selection-start-line="1666" selection-start-column="20" selection-end-line="1666" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/front/paymentdetails.php" />
+    <entry file="file://$USER_HOME$/Videos/argapay/argapay.php" />
+    <entry file="file://D:/faspay_update_3/views/templates/front/payment_return_klikpay.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="22" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="176" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/faspay_update_3/faspay.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/templates/front/payment_return_klikpay.tpl" />
+    <entry file="file://$PROJECT_DIR$/views/templates/front/payment_details.tpl" />
+    <entry file="file://$PROJECT_DIR$/views/templates/front/test.tpl" />
+    <entry file="file://$PROJECT_DIR$/views/templates/front/thankyou.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" column="41" lean-forward="false" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/templates/front/payment_guide_indomaret_paymentpoint.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-28">
+          <caret line="6" column="39" lean-forward="false" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/templates/front/payment_infos.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="37" lean-forward="true" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/templates/front/payment_guide_mandiri_billpayment.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="15" column="37" lean-forward="false" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/templates/front/payment_return_2.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="74" column="24" lean-forward="true" selection-start-line="74" selection-start-column="24" selection-end-line="74" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/templates/front/payment_guide_bni_va.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="51" column="85" lean-forward="false" selection-start-line="51" selection-start-column="83" selection-end-line="51" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/templates/front/payment_guide_bca_va.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="177" column="70" lean-forward="false" selection-start-line="177" selection-start-column="70" selection-end-line="177" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/templates/front/payment_guide_bri_mocash.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-21">
+          <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/templates/front/payment_guide_mandiri_va.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="77" column="99" lean-forward="true" selection-start-line="77" selection-start-column="99" selection-end-line="77" selection-end-column="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/templates/front/payment_guide_bri_va.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1">
+          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/templates/front/payment_guide_permata_va.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2350">
+          <caret line="94" column="29" lean-forward="false" selection-start-line="94" selection-start-column="29" selection-end-line="94" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/templates/front/payment_guide_bii_va.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="950">
+          <caret line="38" column="55" lean-forward="false" selection-start-line="38" selection-start-column="46" selection-end-line="38" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/templates/front/payment_exp.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="24" lean-forward="false" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/templates/front/payment_guide_danamon_va.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="70" lean-forward="false" selection-start-line="17" selection-start-column="70" selection-end-line="17" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/packages/Microsoft.SkypeApp_kzf8qxf38zg5c/LocalState/Downloads/Notification.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/packages/Microsoft.SkypeApp_kzf8qxf38zg5c/LocalState/Downloads/Data.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2175">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/packages/Microsoft.SkypeApp_kzf8qxf38zg5c/LocalState/Downloads/Magento Faspay Credit Debit/Faspay/Debit/Controller/Index/Redirect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6075">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/front/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/templates/front/payment_guide_alfa_group.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="20" column="37" lean-forward="false" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/front/testing.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="36" column="2" lean-forward="false" selection-start-line="36" selection-start-column="2" selection-end-line="36" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/front/bcacheck.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/packages/Microsoft.SkypeApp_kzf8qxf38zg5c/LocalState/Downloads/terima_notif.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="21" column="4" lean-forward="true" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/templates/front/notification.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/front/validation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="85" column="0" lean-forward="false" selection-start-line="85" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/front/payment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1606">
+          <caret line="526" column="9" lean-forward="true" selection-start-line="526" selection-start-column="9" selection-end-line="526" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/templates/front/payment_return_klikpay2.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faspay.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1257">
+          <caret line="1175" column="23" lean-forward="false" selection-start-line="1175" selection-start-column="23" selection-end-line="1175" selection-end-column="23" />
+          <folding>
+            <marker date="1531426834000" expanded="true" signature="41862:42204" ph="CREATE TABLE... ${_DB_PREFIX_}banklist" />
+            <marker date="1531426834000" expanded="true" signature="42380:42794" ph="CREATE TABLE... ${_DB_PREFIX_}order_payment_faspay" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/front/thankyou.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1800">
+          <caret line="113" column="41" lean-forward="false" selection-start-line="113" selection-start-column="41" selection-end-line="113" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/front/notification.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2050">
+          <caret line="82" column="0" lean-forward="false" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+          <folding>
+            <marker date="1531426834000" expanded="true" signature="601:697" ph="SELECT * FRO... ${_DB_PREFIX_}order_payment_faspay" />
+            <marker date="1531426834000" expanded="true" signature="2011:2099" ph="SELECT refer... ${_DB_PREFIX_}orders" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

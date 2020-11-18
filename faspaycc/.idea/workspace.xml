@@ -1,0 +1,891 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2bc57a4d-ee1e-496f-a557-afb5d69eac0b" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file leaf-file-name="paymentreturn.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/controllers/front/paymentreturn.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="331">
+              <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+              <folding>
+                <element signature="n#processPayment#0;n#FaspayCCPaymentReturnModuleFrontController#0;n#!!top" expanded="false" />
+                <marker date="1531808892897" expanded="true" signature="561:648" ph="SELECT * FRO... ${_DB_PREFIX_}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="response.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/controllers/front/response.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="212">
+              <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+              <folding>
+                <element signature="e#2828#2952#0#PHP" expanded="false" />
+                <marker date="1531799309316" expanded="true" signature="644:731" ph="SELECT * FRO... ${_DB_PREFIX_}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/controllers/front/test">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="500">
+              <caret line="20" column="16" lean-forward="true" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test2" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/controllers/front/test2">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="667">
+              <caret line="65" column="25" lean-forward="true" selection-start-line="65" selection-start-column="25" selection-end-line="65" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="paymentdetails.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/controllers/front/paymentdetails.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1150">
+              <caret line="70" column="47" lean-forward="false" selection-start-line="70" selection-start-column="47" selection-end-line="70" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="payment.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/controllers/front/payment.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1125">
+              <caret line="143" column="52" lean-forward="false" selection-start-line="143" selection-start-column="52" selection-end-line="143" selection-end-column="52" />
+              <folding>
+                <marker date="1531426834000" expanded="true" signature="3888:3969" ph="SELECT * FRO... ${_DB_PREFIX_}orders" />
+                <marker date="1531426834000" expanded="true" signature="4040:4114" ph="SELECT * FRO... ${_DB_PREFIX_}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="faspaycc.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/faspaycc.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1243">
+              <caret line="123" column="33" lean-forward="false" selection-start-line="123" selection-start-column="33" selection-end-line="123" selection-end-column="33" />
+              <folding>
+                <element signature="e#196#239#0#PHP" expanded="false" />
+                <element signature="n#__construct#0;n#FaspayCC#0;n#!!top" expanded="false" />
+                <element signature="n#install#0;n#FaspayCC#0;n#!!top" expanded="false" />
+                <element signature="n#_deleteTabs#0;n#FaspayCC#0;n#!!top" expanded="false" />
+                <element signature="n#getContent#0;n#FaspayCC#0;n#!!top" expanded="false" />
+                <element signature="n#checkCurrency#0;n#FaspayCC#0;n#!!top" expanded="false" />
+                <element signature="n#_addFaspayOS#0;n#FaspayCC#0;n#!!top" expanded="false" />
+                <marker date="1531426834000" expanded="true" signature="4466:4848" ph="CREATE TABLE... ${_DB_PREFIX_}faspay_cc_config" />
+                <marker date="1531426834000" expanded="true" signature="6558:6603" ph="SELECT * FRO... ${_DB_PREFIX_}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="thankyou.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/controllers/front/thankyou.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="556">
+              <caret line="52" column="28" lean-forward="false" selection-start-line="25" selection-start-column="12" selection-end-line="52" selection-end-column="28" />
+              <folding>
+                <marker date="1531799574388" expanded="true" signature="457:531" ph="SELECT * FRO... ${_DB_PREFIX_}" />
+                <marker date="1531799574388" expanded="true" signature="657:738" ph="SELECT * FRO... ${_DB_PREFIX_}orders" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>credit Card</find>
+      <find>pymt_ind</find>
+      <find>faspay_cc_con</find>
+      <find>mid</find>
+      <find>cc_pymy</find>
+      <find>mini</find>
+      <find>update</find>
+      <find>seti</find>
+      <find>cc_tit</find>
+      <find>hookpaymentoptions</find>
+      <find>cc_title</find>
+      <find>getMids</find>
+      <find>$pg</find>
+      <find>midlist</find>
+      <find>channel</find>
+      <find>Enabled</find>
+      <find>amex</find>
+      <find>name</find>
+      <find>cc_</find>
+      <find>cc_pass</find>
+      <find>enabled</find>
+      <find>pymy_crt</find>
+      <find>hookpay</find>
+      <find>logo</find>
+      <find>id_order</find>
+      <find>processPayment</find>
+      <find>accep</find>
+      <find>accepte</find>
+      <find>create</find>
+      <find>region</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>ConfigUpdate</replace>
+      <replace>$status</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/views/templates/hook/payment.tpl" />
+        <option value="$PROJECT_DIR$/controllers/paymentdetails.php" />
+        <option value="$PROJECT_DIR$/controllers/front/paymentdetails.php" />
+        <option value="$PROJECT_DIR$/views/templates/front/payment_return.tpl" />
+        <option value="$PROJECT_DIR$/views/templates/front/payment_details.tpl" />
+        <option value="$PROJECT_DIR$/mid.php" />
+        <option value="$PROJECT_DIR$/views/templates/admin/config.tpl" />
+        <option value="$PROJECT_DIR$/faspaycc.php" />
+        <option value="$PROJECT_DIR$/controllers/front/payment.php" />
+        <option value="$PROJECT_DIR$/controllers/front/response.php" />
+        <option value="$PROJECT_DIR$/controllers/front/thankyou.php" />
+        <option value="$PROJECT_DIR$/controllers/front/test" />
+        <option value="$PROJECT_DIR$/controllers/front/test2" />
+        <option value="$PROJECT_DIR$/controllers/front/paymentreturn.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="width" value="980" />
+    <option name="height" value="1044" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="faspaycc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="faspaycc" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="faspaycc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="faspaycc" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="controllers" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="faspaycc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="faspaycc" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="controllers" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="front" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="faspaycc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="faspaycc" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="faspaycc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="faspaycc" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="templates" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="faspaycc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="faspaycc" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="templates" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="admin" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="faspaycc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="faspaycc" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="templates" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="front" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="faspaycc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="faspaycc" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="templates" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="hook" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\FASPAY MODULE TERAKHIR FIXXXXX\faspay-latest-module\faspaycc\controllers\front" />
+      <recent name="C:\xampp\htdocs\newpresta\modules\faspaycc\views\templates\front" />
+      <recent name="C:\xampp\htdocs\newpresta\modules\faspaycc\controllers" />
+      <recent name="C:\xampp\htdocs\newpresta\modules\faspaycc\views\templates\hook" />
+      <recent name="C:\xampp\htdocs\newpresta\modules\faspaycc" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\newpresta\modules\faspaycc\controllers\front" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2bc57a4d-ee1e-496f-a557-afb5d69eac0b" name="Default" comment="" />
+      <created>1523872280674</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1523872280674</updated>
+      <workItem from="1523871679678" duration="593000" />
+      <workItem from="1523872281801" duration="276000" />
+      <workItem from="1523931044564" duration="4515000" />
+      <workItem from="1523938325547" duration="9526000" />
+      <workItem from="1524017574776" duration="17386000" />
+      <workItem from="1524102678115" duration="16617000" />
+      <workItem from="1524190234622" duration="9915000" />
+      <workItem from="1524219892641" duration="553000" />
+      <workItem from="1524458995028" duration="5642000" />
+      <workItem from="1524535659102" duration="1308000" />
+      <workItem from="1524620980845" duration="2363000" />
+      <workItem from="1524646924355" duration="146000" />
+      <workItem from="1524648414373" duration="1994000" />
+      <workItem from="1524707571890" duration="2287000" />
+      <workItem from="1524793934809" duration="6537000" />
+      <workItem from="1525225828700" duration="4644000" />
+      <workItem from="1525312583370" duration="642000" />
+      <workItem from="1525400057513" duration="10042000" />
+      <workItem from="1525436856756" duration="61000" />
+      <workItem from="1525744628569" duration="1077000" />
+      <workItem from="1525780806670" duration="523000" />
+      <workItem from="1526442448278" duration="4733000" />
+      <workItem from="1531797588422" duration="1702000" />
+      <workItem from="1531800767064" duration="3704000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="106786000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-11" y="-11" width="1942" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22540541" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="44" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/views/templates/front/payment_return.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/templates/front/payment_details.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="16" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faspaycc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="33" column="44" lean-forward="false" selection-start-line="33" selection-start-column="44" selection-end-line="33" selection-end-column="44" />
+          <folding>
+            <element signature="e#196#239#0#PHP" expanded="false" />
+            <element signature="n#__construct#0;n#FaspayCC#0;n#!!top" expanded="false" />
+            <element signature="n#install#0;n#FaspayCC#0;n#!!top" expanded="false" />
+            <element signature="n#_deleteTabs#0;n#FaspayCC#0;n#!!top" expanded="false" />
+            <element signature="n#getContent#0;n#FaspayCC#0;n#!!top" expanded="false" />
+            <element signature="n#checkCurrency#0;n#FaspayCC#0;n#!!top" expanded="false" />
+            <element signature="n#_addFaspayOS#0;n#FaspayCC#0;n#!!top" expanded="false" />
+            <marker date="1531426834000" expanded="true" signature="4466:4848" ph="CREATE TABLE... ${_DB_PREFIX_}faspay_cc_config" />
+            <marker date="1531426834000" expanded="true" signature="6558:6603" ph="SELECT * FRO... ${_DB_PREFIX_}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/front/payment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2550">
+          <caret line="107" column="19" lean-forward="false" selection-start-line="107" selection-start-column="19" selection-end-line="107" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/templates/front/payment_return.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/templates/front/payment_details.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="16" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faspaycc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2925">
+          <caret line="117" column="5" lean-forward="false" selection-start-line="117" selection-start-column="5" selection-end-line="117" selection-end-column="5" />
+          <folding>
+            <element signature="e#196#239#0#PHP" expanded="false" />
+            <element signature="n#__construct#0;n#FaspayCC#0;n#!!top" expanded="false" />
+            <element signature="n#install#0;n#FaspayCC#0;n#!!top" expanded="false" />
+            <element signature="n#_deleteTabs#0;n#FaspayCC#0;n#!!top" expanded="false" />
+            <element signature="n#getContent#0;n#FaspayCC#0;n#!!top" expanded="false" />
+            <element signature="n#checkCurrency#0;n#FaspayCC#0;n#!!top" expanded="false" />
+            <element signature="n#_addFaspayOS#0;n#FaspayCC#0;n#!!top" expanded="false" />
+            <marker date="1531426834000" expanded="true" signature="4466:4848" ph="CREATE TABLE... ${_DB_PREFIX_}faspay_cc_config" />
+            <marker date="1531426834000" expanded="true" signature="6558:6603" ph="SELECT * FRO... ${_DB_PREFIX_}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/front/paymentreturn.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2900">
+          <caret line="116" column="70" lean-forward="false" selection-start-line="116" selection-start-column="70" selection-end-line="116" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/front/payment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/front/paymentreturn.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2100">
+          <caret line="84" column="13" lean-forward="true" selection-start-line="84" selection-start-column="13" selection-end-line="84" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/templates/front/payment_return.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faspaycc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2450">
+          <caret line="117" column="5" lean-forward="true" selection-start-line="117" selection-start-column="5" selection-end-line="117" selection-end-column="5" />
+          <folding>
+            <element signature="e#196#239#0#PHP" expanded="false" />
+            <element signature="n#__construct#0;n#FaspayCC#0;n#!!top" expanded="false" />
+            <element signature="n#install#0;n#FaspayCC#0;n#!!top" expanded="false" />
+            <element signature="n#_deleteTabs#0;n#FaspayCC#0;n#!!top" expanded="false" />
+            <element signature="n#getContent#0;n#FaspayCC#0;n#!!top" expanded="false" />
+            <element signature="n#checkCurrency#0;n#FaspayCC#0;n#!!top" expanded="false" />
+            <element signature="n#_addFaspayOS#0;n#FaspayCC#0;n#!!top" expanded="false" />
+            <marker date="1531426834000" expanded="true" signature="4466:4848" ph="CREATE TABLE... ${_DB_PREFIX_}faspay_cc_config" />
+            <marker date="1531426834000" expanded="true" signature="6558:6603" ph="SELECT * FRO... ${_DB_PREFIX_}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/front/payment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faspaycc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2950">
+          <caret line="204" column="63" lean-forward="false" selection-start-line="204" selection-start-column="63" selection-end-line="204" selection-end-column="65" />
+          <folding>
+            <element signature="e#196#239#0#PHP" expanded="false" />
+            <element signature="n#__construct#0;n#FaspayCC#0;n#!!top" expanded="false" />
+            <element signature="n#install#0;n#FaspayCC#0;n#!!top" expanded="false" />
+            <element signature="n#_deleteTabs#0;n#FaspayCC#0;n#!!top" expanded="false" />
+            <element signature="n#getContent#0;n#FaspayCC#0;n#!!top" expanded="false" />
+            <element signature="n#checkCurrency#0;n#FaspayCC#0;n#!!top" expanded="false" />
+            <element signature="n#_addFaspayOS#0;n#FaspayCC#0;n#!!top" expanded="false" />
+            <marker date="1531426834000" expanded="true" signature="4466:4848" ph="CREATE TABLE... ${_DB_PREFIX_}faspay_cc_config" />
+            <marker date="1531426834000" expanded="true" signature="6558:6603" ph="SELECT * FRO... ${_DB_PREFIX_}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/front/payment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faspaycc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2950">
+          <caret line="204" column="63" lean-forward="false" selection-start-line="204" selection-start-column="63" selection-end-line="204" selection-end-column="65" />
+          <folding>
+            <element signature="e#196#239#0#PHP" expanded="false" />
+            <element signature="n#__construct#0;n#FaspayCC#0;n#!!top" expanded="false" />
+            <element signature="n#install#0;n#FaspayCC#0;n#!!top" expanded="false" />
+            <element signature="n#_deleteTabs#0;n#FaspayCC#0;n#!!top" expanded="false" />
+            <element signature="n#getContent#0;n#FaspayCC#0;n#!!top" expanded="false" />
+            <element signature="n#checkCurrency#0;n#FaspayCC#0;n#!!top" expanded="false" />
+            <element signature="n#_addFaspayOS#0;n#FaspayCC#0;n#!!top" expanded="false" />
+            <marker date="1531426834000" expanded="true" signature="4466:4848" ph="CREATE TABLE... ${_DB_PREFIX_}faspay_cc_config" />
+            <marker date="1531426834000" expanded="true" signature="6558:6603" ph="SELECT * FRO... ${_DB_PREFIX_}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/front/payment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/front/paymentdetails.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="775">
+          <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/templates/front/payment_return.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faspaycc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2875">
+          <caret line="201" column="54" lean-forward="true" selection-start-line="201" selection-start-column="54" selection-end-line="201" selection-end-column="54" />
+          <folding>
+            <element signature="e#196#239#0#PHP" expanded="false" />
+            <element signature="n#__construct#0;n#FaspayCC#0;n#!!top" expanded="false" />
+            <element signature="n#install#0;n#FaspayCC#0;n#!!top" expanded="false" />
+            <element signature="n#_deleteTabs#0;n#FaspayCC#0;n#!!top" expanded="false" />
+            <element signature="n#getContent#0;n#FaspayCC#0;n#!!top" expanded="false" />
+            <element signature="n#checkCurrency#0;n#FaspayCC#0;n#!!top" expanded="false" />
+            <element signature="n#_addFaspayOS#0;n#FaspayCC#0;n#!!top" expanded="false" />
+            <marker date="1531426834000" expanded="true" signature="4466:4848" ph="CREATE TABLE... ${_DB_PREFIX_}faspay_cc_config" />
+            <marker date="1531426834000" expanded="true" signature="6558:6603" ph="SELECT * FRO... ${_DB_PREFIX_}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/front/paymentreturn.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4150">
+          <caret line="182" column="9" lean-forward="true" selection-start-line="182" selection-start-column="9" selection-end-line="182" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/templates/front/payment_details.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="42" column="12" lean-forward="true" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/front/paymentdetails.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="875">
+          <caret line="59" column="8" lean-forward="true" selection-start-line="59" selection-start-column="8" selection-end-line="65" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/front/paymentreturn.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faspaycc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1500">
+          <caret line="109" column="31" lean-forward="false" selection-start-line="109" selection-start-column="31" selection-end-line="109" selection-end-column="31" />
+          <folding>
+            <element signature="e#196#239#0#PHP" expanded="false" />
+            <element signature="n#__construct#0;n#FaspayCC#0;n#!!top" expanded="false" />
+            <element signature="n#install#0;n#FaspayCC#0;n#!!top" expanded="false" />
+            <element signature="n#_deleteTabs#0;n#FaspayCC#0;n#!!top" expanded="false" />
+            <element signature="n#getContent#0;n#FaspayCC#0;n#!!top" expanded="false" />
+            <element signature="n#checkCurrency#0;n#FaspayCC#0;n#!!top" expanded="false" />
+            <element signature="n#_addFaspayOS#0;n#FaspayCC#0;n#!!top" expanded="false" />
+            <marker date="1531426834000" expanded="true" signature="4466:4848" ph="CREATE TABLE... ${_DB_PREFIX_}faspay_cc_config" />
+            <marker date="1531426834000" expanded="true" signature="6558:6603" ph="SELECT * FRO... ${_DB_PREFIX_}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/front/payment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1425">
+          <caret line="57" column="0" lean-forward="true" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/front/paymentdetails.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="48" column="34" lean-forward="false" selection-start-line="48" selection-start-column="34" selection-end-line="48" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/templates/front/payment_details.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faspaycc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1425">
+          <caret line="190" column="36" lean-forward="true" selection-start-line="190" selection-start-column="36" selection-end-line="190" selection-end-column="36" />
+          <folding>
+            <element signature="e#196#239#0#PHP" expanded="false" />
+            <element signature="n#__construct#0;n#FaspayCC#0;n#!!top" expanded="false" />
+            <element signature="n#install#0;n#FaspayCC#0;n#!!top" expanded="false" />
+            <element signature="n#_deleteTabs#0;n#FaspayCC#0;n#!!top" expanded="false" />
+            <element signature="n#getContent#0;n#FaspayCC#0;n#!!top" expanded="false" />
+            <element signature="n#checkCurrency#0;n#FaspayCC#0;n#!!top" expanded="false" />
+            <element signature="n#_addFaspayOS#0;n#FaspayCC#0;n#!!top" expanded="false" />
+            <marker date="1531426834000" expanded="true" signature="4466:4848" ph="CREATE TABLE... ${_DB_PREFIX_}faspay_cc_config" />
+            <marker date="1531426834000" expanded="true" signature="6558:6603" ph="SELECT * FRO... ${_DB_PREFIX_}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faspaycc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#196#239#0#PHP" expanded="false" />
+            <element signature="n#__construct#0;n#FaspayCC#0;n#!!top" expanded="false" />
+            <element signature="n#install#0;n#FaspayCC#0;n#!!top" expanded="false" />
+            <element signature="n#_deleteTabs#0;n#FaspayCC#0;n#!!top" expanded="false" />
+            <element signature="n#getContent#0;n#FaspayCC#0;n#!!top" expanded="false" />
+            <element signature="n#checkCurrency#0;n#FaspayCC#0;n#!!top" expanded="false" />
+            <element signature="n#_addFaspayOS#0;n#FaspayCC#0;n#!!top" expanded="false" />
+            <marker date="1531426834000" expanded="true" signature="4466:4848" ph="CREATE TABLE... ${_DB_PREFIX_}faspay_cc_config" />
+            <marker date="1531426834000" expanded="true" signature="6558:6603" ph="SELECT * FRO... ${_DB_PREFIX_}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mid.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1750">
+          <caret line="70" column="0" lean-forward="false" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/templates/admin/config.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7850">
+          <caret line="314" column="5" lean-forward="false" selection-start-line="314" selection-start-column="5" selection-end-line="314" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faspaycc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1225">
+          <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+          <folding>
+            <element signature="e#196#239#0#PHP" expanded="false" />
+            <element signature="n#__construct#0;n#FaspayCC#0;n#!!top" expanded="false" />
+            <element signature="n#install#0;n#FaspayCC#0;n#!!top" expanded="false" />
+            <element signature="n#_deleteTabs#0;n#FaspayCC#0;n#!!top" expanded="false" />
+            <element signature="n#getContent#0;n#FaspayCC#0;n#!!top" expanded="false" />
+            <element signature="n#checkCurrency#0;n#FaspayCC#0;n#!!top" expanded="false" />
+            <element signature="n#_addFaspayOS#0;n#FaspayCC#0;n#!!top" expanded="false" />
+            <marker date="1531426834000" expanded="true" signature="4466:4848" ph="CREATE TABLE... ${_DB_PREFIX_}faspay_cc_config" />
+            <marker date="1531426834000" expanded="true" signature="6558:6603" ph="SELECT * FRO... ${_DB_PREFIX_}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/templates/admin/config.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faspaycc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1225">
+          <caret line="54" column="0" lean-forward="true" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+          <folding>
+            <element signature="e#196#239#0#PHP" expanded="false" />
+            <element signature="n#__construct#0;n#FaspayCC#0;n#!!top" expanded="false" />
+            <element signature="n#install#0;n#FaspayCC#0;n#!!top" expanded="false" />
+            <element signature="n#_deleteTabs#0;n#FaspayCC#0;n#!!top" expanded="false" />
+            <element signature="n#getContent#0;n#FaspayCC#0;n#!!top" expanded="false" />
+            <element signature="n#checkCurrency#0;n#FaspayCC#0;n#!!top" expanded="false" />
+            <element signature="n#_addFaspayOS#0;n#FaspayCC#0;n#!!top" expanded="false" />
+            <marker date="1531426834000" expanded="true" signature="4466:4848" ph="CREATE TABLE... ${_DB_PREFIX_}faspay_cc_config" />
+            <marker date="1531426834000" expanded="true" signature="6558:6603" ph="SELECT * FRO... ${_DB_PREFIX_}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/templates/admin/config.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="34" column="19" lean-forward="true" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/templates/hook/payment.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="13" lean-forward="true" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/templates/front/payment_details.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="18" column="32" lean-forward="true" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mid.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="12" lean-forward="false" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/templates/admin/config.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6100">
+          <caret line="244" column="32" lean-forward="false" selection-start-line="244" selection-start-column="28" selection-end-line="244" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/packages/Microsoft.SkypeApp_kzf8qxf38zg5c/LocalState/Downloads/Magento Faspay Credit Debit/Faspay/Credit/Controller/Business/Response.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3600">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/templates/front/response.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/templates/front/payment_return.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="16" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/front/thankyou.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="556">
+          <caret line="52" column="28" lean-forward="false" selection-start-line="25" selection-start-column="12" selection-end-line="52" selection-end-column="28" />
+          <folding>
+            <marker date="1531799574388" expanded="true" signature="457:531" ph="SELECT * FRO... ${_DB_PREFIX_}" />
+            <marker date="1531799574388" expanded="true" signature="657:738" ph="SELECT * FRO... ${_DB_PREFIX_}orders" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faspaycc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1243">
+          <caret line="123" column="33" lean-forward="false" selection-start-line="123" selection-start-column="33" selection-end-line="123" selection-end-column="33" />
+          <folding>
+            <element signature="e#196#239#0#PHP" expanded="false" />
+            <element signature="n#__construct#0;n#FaspayCC#0;n#!!top" expanded="false" />
+            <element signature="n#install#0;n#FaspayCC#0;n#!!top" expanded="false" />
+            <element signature="n#_deleteTabs#0;n#FaspayCC#0;n#!!top" expanded="false" />
+            <element signature="n#getContent#0;n#FaspayCC#0;n#!!top" expanded="false" />
+            <element signature="n#checkCurrency#0;n#FaspayCC#0;n#!!top" expanded="false" />
+            <element signature="n#_addFaspayOS#0;n#FaspayCC#0;n#!!top" expanded="false" />
+            <marker date="1531426834000" expanded="true" signature="4466:4848" ph="CREATE TABLE... ${_DB_PREFIX_}faspay_cc_config" />
+            <marker date="1531426834000" expanded="true" signature="6558:6603" ph="SELECT * FRO... ${_DB_PREFIX_}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/front/payment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1125">
+          <caret line="143" column="52" lean-forward="false" selection-start-line="143" selection-start-column="52" selection-end-line="143" selection-end-column="52" />
+          <folding>
+            <marker date="1531426834000" expanded="true" signature="3888:3969" ph="SELECT * FRO... ${_DB_PREFIX_}orders" />
+            <marker date="1531426834000" expanded="true" signature="4040:4114" ph="SELECT * FRO... ${_DB_PREFIX_}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/front/test">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="20" column="16" lean-forward="true" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/front/test2">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="65" column="25" lean-forward="true" selection-start-line="65" selection-start-column="25" selection-end-line="65" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/front/paymentdetails.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1150">
+          <caret line="70" column="47" lean-forward="false" selection-start-line="70" selection-start-column="47" selection-end-line="70" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/front/response.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding>
+            <element signature="e#2828#2952#0#PHP" expanded="false" />
+            <marker date="1531799309316" expanded="true" signature="644:731" ph="SELECT * FRO... ${_DB_PREFIX_}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/front/paymentreturn.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+          <folding>
+            <element signature="n#processPayment#0;n#FaspayCCPaymentReturnModuleFrontController#0;n#!!top" expanded="false" />
+            <marker date="1531808892897" expanded="true" signature="561:648" ph="SELECT * FRO... ${_DB_PREFIX_}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
